@@ -1,0 +1,51 @@
+{
+	"name": "Asset Name",
+	"description": "Asset Description",
+	"external_url": "OpenSea external url property. Can be used instead of Website URL below though not available on all marketplaces.",
+	"image": "The asset image to represent the NFT",
+	"attributes": [{
+			"value": "Enter your value here",
+			"trait_type": "Creator"
+		},
+		{
+			"value": "Enter your value here",
+			"trait_type": "Publisher"
+		},
+		{
+			"value": "Enter your value here",
+			"trait_type": "License"
+		},
+		{
+			"value": "Enter your value here",
+			"trait_type": "License URL"
+		},
+		{
+			"value": "Enter your value here",
+			"trait_type": "Website URL"
+		},
+		{
+			"value": "Enter your value here",
+			"trait_type": "Asset URL"
+		},
+		{
+			"value": "Enter your value here",
+			"trait_type": "Category"
+		},
+		{
+			"value": "Enter your value here",
+			"trait_type": "Type"
+		},
+		{
+			"value": "Enter your value here",
+			"trait_type": "File Type"
+		},
+		{
+			"value": "Enter your value here",
+			"trait_type": "Compatibility"
+		},
+		{
+			"value": "Enter your value here",
+			"trait_type": "File Size"
+		}
+	]
+}
